@@ -1,2 +1,2 @@
-#My First Try
+#MyFirstTry
 Let's go!
